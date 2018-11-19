@@ -1,0 +1,7 @@
+Hi RELEASE_OWNER,
+
+Just a heads up, you will be the Daily Qualification Owner starting from RELEASE_DATE (PST) and then you will transition to the Weekly Release Owner role. We will provide detailed information at the same time next week.
+
+
+Thanks,
+IndexServe Release Team 
